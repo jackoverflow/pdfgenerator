@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  },
+  "name": "pdfgenerator",
+  "version": "1.0.0",
+  "description": "command line tool that generates pdf with hello world content",
+  "main": "pdfGenerator.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node pdfGenerate.js leeyo 1"
+  },
+  "author": "leo rapirap",
+  "license": "ISC"
+}
